@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659238094 source:c:\users\reset\desktop\facultad\grabaciones progra\codigos de pezzola\todoslosejtp1\main.c
+	"funciones.h"
+
+1659233398 c:\users\reset\desktop\facultad\grabaciones progra\codigos de pezzola\todoslosejtp1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1659238094 source:c:\users\reset\desktop\facultad\grabaciones progra\codigos de pezzola\todoslosejtp1\funciones.c
+	"funciones.h"
+
